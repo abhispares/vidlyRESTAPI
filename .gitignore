@@ -1,5 +1,5 @@
 node_modules/
 coverage/
-package.json/
+package/
 logfile.txt/
-package-lock.json/
+package-lock/
