@@ -1,3 +1,5 @@
 node_modules/
 coverage/
 package.json/
+logfile.txt/
+package-lock.json/
